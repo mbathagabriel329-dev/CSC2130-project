@@ -1,13 +1,12 @@
  CSC2130 Project
 ## Project Title
-Event Booking Platform
+House Booking Platform
 ## Student Information
 - Name: Gabriel Ndaya
 - Registration Number:COM/0008/25
 - Course: CSC2130 – Introduction to Web Development
 ## Project Description
-The Event Booking Platform is a website that helps users 
-find events, view event details, and book tickets online]
+The House Booking Platform is a website that helps users find available houses,view their details and book them easily online.
 ## Technologies Used
 - HTML5
 - CSS3 (coming soon)
